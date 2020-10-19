@@ -4,6 +4,7 @@ My name is Jeremy Aditya, and i'm currently a student in the school of electrica
 My very first exposure to coding is on an event called Indonesia Android Kejar 3.0 that was held on the january of 2018. It was an awesome experience for me. 
 On that event, i get to know the basics of android programming using android studio. More importantly, that event ignited my interest on programming. 
 I think the ability to write a code is a very important thing for the future. That is why i'm interested to learn even more about programming.
+
 LinkedIn : https://www.linkedin.com/in/jeremy-aditya-5951491ba/
 <!--
 **Jeremyaditya/Jeremyaditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
