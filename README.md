@@ -1,3 +1,5 @@
+Hello 🌏!
+
 My name is Jeremy Aditya, and i'm currently a student in the school of electrical engineering and informatics, Bandung Institute of Technology. 
 My very first exposure to coding is on an event called Indonesia Android Kejar 3.0 that was held on the january of 2018. It was an awesome experience for me. 
 On that event, i get to know the basics of android programming using android studio. More importantly, that event ignited my interest on programming. 
